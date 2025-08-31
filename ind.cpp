@@ -12,8 +12,14 @@ int main () {
 
 
     vector<int> v = {1,2,3,4,5,6,7,8,90};
+    cout<<"hello world now printing "<<endl;
+
     display(v);
+
+
+    cout<<"hey how are you kaiser bro "<<endl;
     
+
 
 
 
